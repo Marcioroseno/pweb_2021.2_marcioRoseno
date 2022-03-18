@@ -21,3 +21,6 @@ form{margin-left: 15px;}
 input{margin-bottom: 10 px;}
 #limpar, #cadastrar{padding: 8px 13px;margin-top: 10px;margin-right: 4px;background-color: rgb(30, 68, 112);color:white;border: 1px solidrgb (30,68,112);cursor: pointer;}
 a{ color:rgb(30, 68, 112)}
+/* teste tabela*/
+table{ border-collapse:colapse;width:auto;}
+th,td{padding: 8px 0 8px 0;text-align: left;border-bottom: 1px solid rgb(30, 68, 112);}
