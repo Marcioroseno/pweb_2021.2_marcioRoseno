@@ -4,7 +4,7 @@ margin: 0;padding: 0;overflow: hidden;background-color: #333;}
 li{float:left;}
 li#sobre{float: right;}
 li a{display: block;color: white;text-align: center;padding: 14px 16px;text-decoration: nome;}
-li a:hover:not(.active){background-color: #111;}
+li a:hover:not(.active){background-color: rgb(30, 68, 112);}
 .active{background-color: rgb(30, 68, 112);}
 @media screen and (max-wilth:700px){body{
   margin: auto;
